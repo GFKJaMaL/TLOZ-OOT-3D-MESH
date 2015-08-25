@@ -1,0 +1,275 @@
+# Blender MTL File: 'kokiri.blend'
+# Material Count: 28
+
+newmtl 19_-_Default.002
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.134983 0.137194 0.012161
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl 19_-_Default.004
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.134983 0.137194 0.012161
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl 19_-_Default.005
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.134983 0.137194 0.012161
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl 19_-_Default.006
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.134983 0.137194 0.012161
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl 19_-_Default.007
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.134983 0.137194 0.012161
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Material__2
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.024271 0.142944 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 3.800000
+d 1.000000
+illum 9
+
+newmtl __auto_
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni -1.000000
+d 1.000000
+illum 2
+map_Kd /Users/edouardsoulier/Downloads/model/model/__auto_.png
+
+newmtl __auto_1
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni -1.000000
+d 1.000000
+illum 2
+map_Kd /Users/edouardsoulier/Downloads/model/model/__auto_1.png
+
+newmtl __auto_10
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni -1.000000
+d 1.000000
+illum 2
+map_Kd /Users/edouardsoulier/Downloads/model/model/__auto_10.png
+
+newmtl __auto_11
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni -1.000000
+d 1.000000
+illum 2
+map_Kd /Users/edouardsoulier/Downloads/model/model/__auto_11.png
+
+newmtl __auto_12
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni -1.000000
+d 1.000000
+illum 2
+map_Kd /Users/edouardsoulier/Downloads/model/model/__auto_12.png
+
+newmtl __auto_13
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni -1.000000
+d 1.000000
+illum 2
+map_Kd /Users/edouardsoulier/Downloads/model/model/__auto_13.png
+
+newmtl __auto_14
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni -1.000000
+d 1.000000
+illum 2
+map_Kd /Users/edouardsoulier/Downloads/model/model/__auto_14.png
+
+newmtl __auto_15
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni -1.000000
+d 1.000000
+illum 2
+map_Kd /Users/edouardsoulier/Downloads/model/model/__auto_15.png
+
+newmtl __auto_16
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni -1.000000
+d 1.000000
+illum 2
+map_Kd /Users/edouardsoulier/Downloads/model/model/__auto_16.png
+
+newmtl __auto_17
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni -1.000000
+d 1.000000
+illum 2
+map_Kd /Users/edouardsoulier/Downloads/model/model/__auto_17.png
+
+newmtl __auto_18
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni -1.000000
+d 1.000000
+illum 2
+map_Kd /Users/edouardsoulier/Downloads/model/model/__auto_18.png
+
+newmtl __auto_19
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni -1.000000
+d 1.000000
+illum 2
+map_Kd /Users/edouardsoulier/Downloads/model/model/__auto_19.png
+
+newmtl __auto_2
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni -1.000000
+d 1.000000
+illum 2
+map_Kd /Users/edouardsoulier/Downloads/model/model/__auto_2.png
+
+newmtl __auto_20
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni -1.000000
+d 1.000000
+illum 2
+map_Kd /Users/edouardsoulier/Downloads/model/model/__auto_20.png
+
+newmtl __auto_3
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni -1.000000
+d 1.000000
+illum 2
+map_Kd /Users/edouardsoulier/Downloads/model/model/__auto_3.png
+
+newmtl __auto_4
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni -1.000000
+d 1.000000
+illum 2
+map_Kd /Users/edouardsoulier/Downloads/model/model/__auto_4.png
+
+newmtl __auto_5
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni -1.000000
+d 1.000000
+illum 2
+map_Kd /Users/edouardsoulier/Downloads/model/model/__auto_5.png
+
+newmtl __auto_6
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni -1.000000
+d 1.000000
+illum 2
+map_Kd /Users/edouardsoulier/Downloads/model/model/__auto_6.png
+
+newmtl __auto_7
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni -1.000000
+d 1.000000
+illum 2
+map_Kd /Users/edouardsoulier/Downloads/model/model/__auto_7.png
+
+newmtl __auto_8
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni -1.000000
+d 1.000000
+illum 2
+map_Kd /Users/edouardsoulier/Downloads/model/model/__auto_8.png
+
+newmtl __auto_9
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni -1.000000
+d 1.000000
+illum 2
+map_Kd /Users/edouardsoulier/Downloads/model/model/__auto_9.png
+
+newmtl material
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.670588 0.690196 0.800000
+Ks 0.500000 0.500000 0.500000
+Ni -1.000000
+d 1.000000
+illum 2
